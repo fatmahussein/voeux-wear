@@ -24,3 +24,7 @@
   height: min-content;
   object-fit: cover;
 }
+
+span.react-read-more-read-less.react-read-more-read-less {
+  color: brown;
+}

@@ -63,6 +63,7 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 [Live Demo](https://voeux-wear.onrender.com/)
+[Loom Video](https://www.loom.com/share/1cbf16782ca445f1a58d4bb66a217010?sid=00e7dece-2c67-42af-b962-9fefaaf1334d)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->

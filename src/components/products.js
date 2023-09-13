@@ -1,14 +1,9 @@
-import React, { useEffect, useState } from 'react';
-import { useSelector, useDispatch } from 'react-redux';
+import React, { useState } from 'react';
+import { useSelector } from 'react-redux';
 import { Link } from 'react-router-dom';
-import { getProducts } from '../Redux/allproductsSlice';
 import '../styles/products.css';
 
 function Allproducts() {
-  const dispatch = useDispatch();
-  useEffect(() => {
-    dispatch(getProducts());
-  }, [dispatch]);
   const productsArray = useSelector((state) => state.products.products);
   const [search, setSearch] = useState('');
   const handleSearch = (e) => { setSearch(e.target.value); };

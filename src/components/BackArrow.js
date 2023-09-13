@@ -5,7 +5,7 @@ import logo from '../logo.jpg';
 
 function BackArrow() {
   return (
-    <div data-testId="back-navigation" className="detsNav">
+    <div data-testid="back-navigation" className="detsNav">
       <Link to="/">
         <AiOutlineLeft />
       </Link>

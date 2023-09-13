@@ -1,12 +1,12 @@
 import React from 'react';
-import Categories from './categories';
 import Allproducts from './products';
 import Footer from './footer';
+import Navbar from './Navbar';
 
 function Home() {
   return (
     <div>
-      <Categories />
+      <Navbar />
       <Allproducts />
       <Footer />
     </div>

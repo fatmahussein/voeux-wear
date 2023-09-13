@@ -1,16 +1,20 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import { AiOutlineLeft } from 'react-icons/ai';
 import logo from '../logo.jpg';
-import '../styles/Navbar.css';
 
-function Navbar() {
+function BackArrow() {
   return (
-    <div className="nav">
+    <div className="detsNav">
+      <Link to="/">
+        <AiOutlineLeft />
+      </Link>
       <Link to="/">
         <img src={logo} alt="logo" />
       </Link>
+      <span />
     </div>
   );
 }
 
-export default Navbar;
+export default BackArrow;

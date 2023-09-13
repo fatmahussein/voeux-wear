@@ -1,7 +1,14 @@
+.input {
+  display: flex;
+  justify-content: end;
+  padding: 1rem;
+}
+
 .products {
   display: grid;
   grid-template-columns: 1fr 1fr;
   padding: 0.8rem;
+  margin-left: 1rem;
   margin-bottom: 1rem;
   column-gap: 1rem;
 }
@@ -13,6 +20,16 @@
   gap: 5px;
 }
 
+.product img {
+  width: 10rem;
+  height: 10rem;
+}
+
 .price {
   color: rgb(235, 133, 9);
+}
+
+.link {
+  text-decoration: none;
+  font-weight: 500;
 }

@@ -33,11 +33,8 @@
 <div align="center">
 
   <img src="./src/images/Capture.PNG" alt="pic" width="140"  height="auto" />
-   <img src="./src/images/Capture2.PNG" alt="pic" width="140"  height="auto" />
+  <img src="./src/images/Capture2.PNG" alt="pic" width="140"  height="auto" />
   <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
 </div>
 
 ## 🛠️ Built With <a name="built-with"></a>

@@ -30,6 +30,15 @@
 
 **Voeux Wear** is a project that displays products fetched from an API  and gives details of each product. Users can search for products with much ease.
 
+<div align="center">
+
+  <img src="./src/images/Capture.PNG" alt="pic" width="140"  height="auto" />
+   <img src="./src/images/Capture2.PNG" alt="pic" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
 
 ## 🛠️ Built With <a name="built-with"></a>
 

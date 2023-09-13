@@ -28,7 +28,13 @@
 
 # 📖 About the Project <a name="about-project"></a>
 
-**Voeux Wear** is a 
+**Voeux Wear** is a project that displays products fetched from an API  and gives details of each product. Users can search for products with much ease.
+
+<div align="center">
+  <img src="./src/images/Capture.PNG" alt="pic" width="140"  height="auto" />
+  <img src="./src/images/Capture2.PNG" alt="pic" width="140"  height="auto" />
+  <br/>
+</div>
 
 ## 🛠️ Built With <a name="built-with"></a>
 
@@ -47,8 +53,8 @@
 
 ### 🔑 Key Features <a name="key-features"></a>
 
-- ✨ ****
-- 🏅 **Make Api call**
+- ✨ **Fetch Products from API**
+- 🏅 **Display details of each product**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -56,8 +62,10 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+[Live Demo](https://voeux-wear.onrender.com/)
+[Loom Video](https://www.loom.com/share/1cbf16782ca445f1a58d4bb66a217010?sid=00e7dece-2c67-42af-b962-9fefaaf1334d)
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -66,9 +74,9 @@
 
 To run this project, you need the following:
 
-- 🌐 Web browser
+- 🌐 Mobile simulator extension on web browser
 - 🐙 Git
-- 👨‍💻 Code editor
+- 👨‍💻 Code Editor
 
 ### Setup
 

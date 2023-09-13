@@ -1,0 +1,30 @@
+.dets {
+  margin: 1rem;
+}
+
+.desc,
+.prices,
+.cat,
+.rating {
+  margin-top: 1.2rem;
+}
+
+.prices {
+  color: chocolate;
+}
+
+.img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.img img {
+  width: 70%;
+  height: min-content;
+  object-fit: cover;
+}
+
+span.react-read-more-read-less.react-read-more-read-less {
+  color: brown;
+}

@@ -31,7 +31,6 @@
 **Voeux Wear** is a project that displays products fetched from an API  and gives details of each product. Users can search for products with much ease.
 
 <div align="center">
-
   <img src="./src/images/Capture.PNG" alt="pic" width="140"  height="auto" />
   <img src="./src/images/Capture2.PNG" alt="pic" width="140"  height="auto" />
   <br/>
@@ -74,9 +73,9 @@
 
 To run this project, you need the following:
 
-- 🌐 Web browser
+- 🌐 Mobile simulator extension on web browser
 - 🐙 Git
-- 👨‍💻 Code editor
+- 👨‍💻 Code Editor
 
 ### Setup
 

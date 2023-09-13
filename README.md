@@ -28,7 +28,8 @@
 
 # 📖 About the Project <a name="about-project"></a>
 
-**Voeux Wear** is a 
+**Voeux Wear** is a project that displays products fetched from an API  and gives details of each product. Users can search for products with much ease.
+
 
 ## 🛠️ Built With <a name="built-with"></a>
 
@@ -47,8 +48,8 @@
 
 ### 🔑 Key Features <a name="key-features"></a>
 
-- ✨ ****
-- 🏅 **Make Api call**
+- ✨ **Fetch Products from API**
+- 🏅 **Display details of each product**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
